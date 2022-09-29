@@ -1,4 +1,4 @@
-package com.naviapp.assignment.repository
+package com.naviapp.assignment.repo
 
 import android.content.Context
 import android.view.LayoutInflater

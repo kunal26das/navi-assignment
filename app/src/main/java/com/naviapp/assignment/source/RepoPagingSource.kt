@@ -2,7 +2,7 @@ package com.naviapp.assignment.source
 
 import com.naviapp.assignment.Constant.INITIAL_PAGE
 import com.naviapp.assignment.model.Repo
-import com.naviapp.assignment.repository.RepoRepository
+import com.naviapp.assignment.repo.RepoRepository
 
 class RepoPagingSource(
     private val repoRepository: RepoRepository,

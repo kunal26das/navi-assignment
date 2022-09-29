@@ -1,4 +1,4 @@
-package com.naviapp.assignment.repository
+package com.naviapp.assignment.repo
 
 import androidx.recyclerview.widget.RecyclerView
 import com.naviapp.assignment.databinding.ItemRepoBinding

@@ -1,4 +1,4 @@
-package com.naviapp.assignment.repository
+package com.naviapp.assignment.repo
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
@@ -10,8 +10,6 @@ import com.naviapp.assignment.BuildConfig
 import com.naviapp.assignment.Constant
 import com.naviapp.assignment.source.RepoPagingSource
 import dagger.hilt.android.lifecycle.HiltViewModel
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @HiltViewModel

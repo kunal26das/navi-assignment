@@ -1,4 +1,4 @@
-package com.naviapp.assignment.repository
+package com.naviapp.assignment.repo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
